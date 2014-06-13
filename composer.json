@@ -1,0 +1,5 @@
+{
+    "require": {
+        "patchwork/dumper": "~1.0"
+    }
+}
